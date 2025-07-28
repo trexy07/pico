@@ -4,7 +4,7 @@ import network
 import time
 
 ssid = 'Fluffynet'
-password = 'terrycarter'
+password = 'password'
 
 
 def connect():
